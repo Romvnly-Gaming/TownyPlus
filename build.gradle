@@ -76,7 +76,7 @@ dependencies {
     implementation 'cloud.commandframework:cloud-paper:1.6.1'
     implementation 'cloud.commandframework:cloud-minecraft-extras:1.6.1'
     // Dependency for our way of command handling
-    implementation 'me.lucko:commodore:1.11'
+    implementation 'me.lucko:commodore:1.12'
     // For handling multi platform configuration, simply amazing
     implementation "org.spongepowered:configurate-yaml:4.1.2"
     // Towny
