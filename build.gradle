@@ -80,7 +80,7 @@ dependencies {
     // For handling multi platform configuration, simply amazing
     implementation "org.spongepowered:configurate-yaml:4.1.2"
     // Towny
-    compileOnly 'com.palmergames.bukkit.towny:towny:0.97.5.16'
+    compileOnly 'com.palmergames.bukkit.towny:towny:0.97.5.17'
     // Adventure
     implementation "net.kyori:adventure-api:4.9.3"
     implementation "net.kyori:adventure-text-minimessage:4.10.0-SNAPSHOT"
