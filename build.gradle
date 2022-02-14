@@ -80,7 +80,7 @@ dependencies {
     // For handling multi platform configuration, simply amazing
     implementation "org.spongepowered:configurate-yaml:4.1.2"
     // Towny
-    compileOnly 'com.palmergames.bukkit.towny:towny:0.97.5.17'
+    compileOnly 'com.palmergames.bukkit.towny:towny:0.97.5.18'
     // Adventure
     implementation "net.kyori:adventure-api:4.9.3"
     implementation "net.kyori:adventure-text-minimessage:4.10.0-SNAPSHOT"
@@ -103,7 +103,7 @@ shadowJar {
     classifier = ''
     dependencies {
 //        include(dependency('com.discordsrv:discordsrv:1.24.0'))
-        include(dependency('com.palmergames.bukkit.towny:towny:0.97.5.16'))
+        include(dependency('com.palmergames.bukkit.towny:towny:0.97.5.18'))
         include(dependency("net.kyori:adventure-text-minimessage:4.1.0-SNAPSHOT"))
 
     }
