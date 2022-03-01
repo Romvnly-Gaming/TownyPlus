@@ -74,7 +74,7 @@ dependencies {
 
     // Command Handling! https://commandframework.cloud
     implementation 'cloud.commandframework:cloud-paper:1.6.1'
-    implementation 'cloud.commandframework:cloud-minecraft-extras:1.6.1'
+    implementation 'cloud.commandframework:cloud-minecraft-extras:1.6.2'
     // Dependency for our way of command handling
     implementation 'me.lucko:commodore:1.12'
     // For handling multi platform configuration, simply amazing
