@@ -73,7 +73,7 @@ dependencies {
     implementation "io.papermc.paper:paper-api:${mcVersion}-R0.1-SNAPSHOT"
 
     // Command Handling! https://commandframework.cloud
-    implementation 'cloud.commandframework:cloud-paper:1.6.1'
+    implementation 'cloud.commandframework:cloud-paper:1.7.1'
     implementation 'cloud.commandframework:cloud-minecraft-extras:1.6.2'
     // Dependency for our way of command handling
     implementation 'me.lucko:commodore:1.12'
